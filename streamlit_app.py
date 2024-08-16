@@ -4,7 +4,7 @@ from openai import OpenAI
 # Show title and description.
 st.title("💬 Plot Gen by Abhay Vignesh")
 st.write(
-    "Human in the loop Plot generation and narration\n"
+    "Human in the loop Plot generation and narration. "
     "Generate story, movie plots"
 )
 
