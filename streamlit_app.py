@@ -4,9 +4,8 @@ from openai import OpenAI
 # Show title and description.
 st.title("💬 Plot Gen by Abhay Vignesh")
 st.write(
-    "This is a very simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
-    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
-    "You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
+    "Human in the loop Plot generation and narration"
+    "Generate story, movie plots"
 )
 
 # Ask user for their OpenAI API key via `st.text_input`.
