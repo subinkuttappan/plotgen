@@ -137,6 +137,6 @@ st.write(
     "Generate story, movie plots"
 )
 
-# Create a button in the UI
+# Create a button in the  UI
 if st.button("Step 1"):
     update_text()
